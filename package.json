@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "name": "quiz-ride-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iker-Romero/quiz-ride-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iker-Romero/quiz-ride-server/issues"
+  },
+  "homepage": "https://github.com/Iker-Romero/quiz-ride-server#readme",
+  "description": ""
 }
